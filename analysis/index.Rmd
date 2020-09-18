@@ -9,3 +9,7 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+[Teeth Analysis](https://gschlafly.github.io/myproject/teeth.html)
+
+[Gabriel's github project](https://gtbcasella.github.io/myproject/)
